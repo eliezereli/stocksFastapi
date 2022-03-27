@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+PyMySQL
+requests
+beautifulsoup4
+yfinance
